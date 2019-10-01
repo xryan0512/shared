@@ -1,0 +1,155 @@
+[
+  {
+    "id_product": 1,
+    "Caoba": 941,
+    "Roble": 1096,
+    "Andiroba": 839,
+    "Pino": 529,
+    "Pino Tratado": 545,
+    "Jequitiba": 775
+  },{
+
+    "id_product": 2,
+    "Caoba": 776,
+    "Roble": 941,
+    "Andiroba": 738,
+    "Pino": 449,
+    "Pino Tratado": 465,
+    "Jequitiba": 642
+  },{
+
+    "id_product": 3,
+    "Caoba": 609,
+    "Roble": 770,
+    "Andiroba": 572,
+    "Pino": 369,
+    "Pino Tratado": 395,
+    "Jequitiba": 535
+  },{
+
+    "id_product": 4,
+    "Caoba": 1123,
+    "Roble": 1337,
+    "Andiroba": 1000,
+    "Pino": 749,
+    "Pino Tratado": 856,
+    "Jequitiba": 1016
+  },{
+
+    "id_product": 5,
+    "Caoba": 3317,
+    "Roble": 3937,
+    "Andiroba": 3092.23,
+    "Pino": 2033,
+    "Pino Tratado": 2140,
+    "Jequitiba": 3103
+  },{
+
+    "id_product": 6,
+    "Caoba": 3531,
+    "Roble": 4173,
+    "Andiroba": 3317,
+    "Pino": 2193,
+    "Pino Tratado": 2354,
+    "Jequitiba": 3263
+  },{
+
+    "id_product": 7,
+    "Caoba": 3959,
+    "Roble": 4708,
+    "Andiroba": 3745,
+    "Pino": 2621,
+    "Pino Tratado": 2739,
+    "Jequitiba": 3638
+  },{
+
+    "id_product": 8,
+    "Caoba": 3595,
+    "Roble": 4437,
+    "Andiroba": 3370,
+    "Pino": 2300,
+    "Pino Tratado": 2461,
+    "Jequitiba": 3317
+  },{
+
+    "id_product": 9,
+    "Caoba": 3173,
+    "Roble": 5114,
+    "Andiroba": 3905,
+    "Pino": 2675,
+    "Pino Tratado": 2878,
+    "Jequitiba": 3852
+  },{
+
+    "id_product": 10,
+    "Caoba": 4387,
+    "Roble": 5243,
+    "Andiroba": 4173,
+    "Pino": 2889,
+    "Pino Tratado": 3097,
+    "Jequitiba": 4066
+  },{
+
+    "id_product": 11,
+    "Caoba": 3049,
+    "Roble": 3691,
+    "Andiroba": 2889,
+    "Pino": 1926,
+    "Pino Tratado": 2065,
+    "Jequitiba": 2782
+  },{
+
+    "id_product": 12,
+    "Caoba": 1117,
+    "Roble": 1337,
+    "Andiroba": 1037,
+    "Pino": 743,
+    "Pino Tratado": 770,
+    "Jequitiba": 963
+  },{
+
+    "id_product": 13,
+    "Caoba": 224,
+    "Roble": 267,
+    "Andiroba": 208,
+    "Pino": 107,
+    "Pino Tratado": 123,
+    "Jequitiba": 203
+  },{
+
+    "id_product": 14,
+    "Caoba": 2568,
+    "Roble": 2996,
+    "Andiroba": 2461,
+    "Pino": 1765,
+    "Pino Tratado": 1872,
+    "Jequitiba": 2500
+  },{
+
+    "id_product": 15,
+    "Caoba": 727,
+    "Roble": 835,
+    "Andiroba": 684,
+    "Pino": 435,
+    "Pino Tratado": 460,
+    "Jequitiba": 631
+  },{
+
+    "id_product": 16,
+    "Caoba": 508,
+    "Roble": 684,
+    "Andiroba": 470,
+    "Pino": 374,
+    "Pino Tratado": 406,
+    "Jequitiba": 4288
+  },{
+
+    "id_product": 17,
+    "Caoba": 625,
+    "Roble": 700,
+    "Andiroba": 560,
+    "Pino": 450,
+    "Pino Tratado": 485,
+    "Jequitiba": 550
+  }
+]

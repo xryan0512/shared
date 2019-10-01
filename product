@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Puerta de paso jamba 2 lados",
+    "type": "Puertas",
+    "measure": "P2"
+  },
+  {
+    "id": 2,
+    "name": "Puerta de paso con jamba de 1 lado",
+    "type": "Puertas",
+    "measure": "P2"
+  },
+  {
+    "id": 3,
+    "name": "Puerta de paso normal",
+    "type": "Puertas",
+    "measure": "P2"
+  },
+  {
+    "id": 4,
+    "name": "Puerta de frente con moldura",
+    "type": "Puertas",
+    "measure": "P2"
+  },
+  {
+    "id": 5,
+    "name": "Pared 30",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 6,
+    "name": "Pared 36",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 7,
+    "name": "Pared 45",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 8,
+    "name": "Pared 30 doble cara",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 9,
+    "name": "Pared 36 doble cara",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 10,
+    "name": "Pared 45 doble cara",
+    "type": "Gabinetes de Pared",
+    "measure": "PL"
+  },
+  {
+    "id": 11,
+    "name": "Desayunador completo",
+    "type": "Gabinetes Piso",
+    "measure": "PL"
+  },
+  {
+    "id": 12,
+    "name": "Desayunador solo",
+    "type": "Gabinetes Piso",
+    "measure": "PL"
+  },
+  {
+    "id": 13,
+    "name": "costado para gabinete",
+    "type": "Gabinetes Piso",
+    "measure": "P2"
+  },
+  {
+    "id": 14,
+    "name": "Piso",
+    "type": "Gabinetes Piso",
+    "measure": "PL"
+  },
+  {
+    "id": 15,
+    "name": "Tramos y Despensas",
+    "type": "Closet",
+    "measure": "P2"
+  },
+  {
+    "id": 16,
+    "name": "con jamba de 1 lado",
+    "type": "Forros",
+    "measure": "PL"
+  },
+  {
+    "id": 17,
+    "name": "con jamba de 2 lado",
+    "type": "Forros",
+    "measure": "PL"
+  }
+]
